@@ -1,0 +1,88 @@
+[
+  {
+    "title": "E-Commerce Platform",
+    "image": "images/ecommerce.png",
+    "description": "A scalable full stack e-commerce platform with authentication, cart and order management.",
+
+    "techStack": [
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Redis",
+      "AWS"
+    ],
+
+    "features": [
+      "User Authentication",
+      "Role Based Access Control",
+      "Product Management",
+      "Shopping Cart",
+      "Admin Dashboard"
+    ],
+
+    "contributions": [
+      "Designed React frontend architecture",
+      "Developed REST APIs using Node.js and Express",
+      "Implemented authentication middleware",
+      "Designed database schema"
+    ],
+
+    "performance": [
+      "Optimized MongoDB queries using indexing",
+      "Reduced API response time by 35%",
+      "Implemented Redis caching"
+    ],
+
+    "deployment": [
+      "Docker Containerization",
+      "AWS Deployment",
+      "Production Environment Setup"
+    ],
+
+    "github": "#",
+    "demo": "#"
+  },
+
+
+  {
+    "title": "Social Media Application",
+
+    "image": "images/social.png",
+
+    "description": "A real-time social networking application with posts, comments and notifications.",
+
+    "techStack": [
+      "React.js",
+      "Node.js",
+      "Socket.io",
+      "MongoDB"
+    ],
+
+    "features": [
+      "Create Posts",
+      "Comments",
+      "Likes",
+      "Real-time Notifications"
+    ],
+
+    "contributions": [
+      "Built reusable React components",
+      "Created backend API services",
+      "Implemented WebSocket communication"
+    ],
+
+    "performance": [
+      "Optimized database queries",
+      "Improved image loading performance"
+    ],
+
+    "deployment": [
+      "Cloud Deployment",
+      "Environment Configuration"
+    ],
+
+    "github": "#",
+    "demo": "#"
+  }
+]
