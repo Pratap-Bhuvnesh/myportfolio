@@ -1,16 +1,13 @@
 [
   {
-    "title": "E-Commerce Platform",
-    "image": "images/ecommerce.png",
-    "description": "A scalable full stack e-commerce platform with authentication, cart and order management.",
+    "title": "PGLocator - Accomodation hunt Platform",
+    "image": "images/pglocator.jpg",
+    "description": "Find verified PGs,houses, hostels, and coliving spaces across India with zero brokerage. Compare rent, food options, Wi-Fi, amenities, and locations.",
 
     "techStack": [
       "React.js",
-      "Node.js",
-      "Express.js",
-      "MongoDB",
-      "Redis",
-      "AWS"
+      "Laravel",
+      "Mysql"      
     ],
 
     "features": [
@@ -40,8 +37,8 @@
       "Production Environment Setup"
     ],
 
-    "github": "#",
-    "demo": "#"
+    "github": "https://github.com/Pratap-Bhuvnesh/student-search-home",
+    "demo": "https://www.pglocator.in/"
   },
 
 

@@ -133,12 +133,12 @@ fetch("data/projects.json").then(response => response.json()).then(projects => {
 
 
 
-                                    <a href="${project.demo}" class="project-btn">
+                                    <a target="_blank" href="${project.demo}" class="project-btn">
                                     Live Demo
                                     </a>
 
 
-                                    <a href="${project.github}" class="project-btn">
+                                    <a target="_blank" href="${project.github}" class="project-btn">
                                     GitHub
                                     </a>
 
