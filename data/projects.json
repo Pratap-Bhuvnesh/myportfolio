@@ -43,30 +43,30 @@
 
 
   {
-    "title": "Social Media Application",
+    "title": "Benevity Volunteering",
 
-    "image": "images/social.png",
+    "image": "images/benevity.jpg",
 
-    "description": "A real-time social networking application with posts, comments and notifications.",
+    "description": "Transform Employee Volunteer Management and Inspire Action with Benevity Volunteering. Efficiently plan, manage and track volunteer program engagement and community impact with Benevity Volunteering. Curate relevant, accessible volunteer opportunities for employees, automate program administration, and continually assess, improve and showcase the results of your programs. Unlock efficiencies with end-to-end program automation so you can focus on what matters most – engaging employees and nonprofits through volunteer initiatives and attract talent and engage employees on a global and local level.",
 
     "techStack": [
-      "React.js",
+      "Docker",
       "Node.js",
-      "Socket.io",
-      "MongoDB"
+      "MongoDB",
+      "Mysql",
+      "Drupal"
     ],
 
     "features": [
-      "Create Posts",
+      "Create Forms ",
       "Comments",
-      "Likes",
+      "Track Time offered to volunteering",
       "Real-time Notifications"
     ],
 
     "contributions": [
-      "Built reusable React components",
-      "Created backend API services",
-      "Implemented WebSocket communication"
+      "Built reusable forms",
+      "Created backend API services"      
     ],
 
     "performance": [
@@ -75,7 +75,7 @@
     ],
 
     "deployment": [
-      "Cloud Deployment",
+      "Github Deployment",
       "Environment Configuration"
     ],
 
